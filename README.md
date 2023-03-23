@@ -17,3 +17,5 @@
 ## 스터디 규칙
 
 - 지켜야할 규칙이 있다면 작성해주세요
+
+[이슈](https://github.com/Learning-Is-Vital-In-Development/study-template/issues)를 읽고 적절한 조치를 통해 스터디에 집중할 수 있도록 해주세요
